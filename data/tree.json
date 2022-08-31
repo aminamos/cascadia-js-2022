@@ -1,0 +1,1000 @@
+{
+  "roots": [
+    {
+      "key": "7ifn0jqm45dvq2e5wc6xjo2",
+      "title": "CascadiaJS 2022 Notes",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "cascadia-js-2022",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "x84sn91kbhdc7wwc58m3ho0",
+          "title": "Contributing",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "lqwv7e0y39yfgymvysmgiv5",
+          "title": "Raffle",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "qwdt0khxbevqlbrp67nay4w",
+      "title": "Talks",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "cascadia-js-2022",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "saimon-sharif",
+          "title": "A Few Good Design Patterns",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "mikeal-rogers",
+          "title": "Bringing Web3 to the Web",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "dwane-hemmings",
+          "title": "Creating a WebXR Tic-Tac-Toe game with Voice Chat on the Code of Giants",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "eddie-zaneski",
+          "title": "Cryptography Isn't Scary",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "tejas-kumar",
+          "title": "Doing Data as a Frontend Developer",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "brian-leroux",
+          "title": "Enhance your Functional Web Apps with Web Components",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "daphne-liu",
+          "title": "How We Automated our Relationship",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "vladimir-de-turckheim",
+          "title": "Join the super secret V8 club and become a JavaScriptbender",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "rebecca-peltz",
+          "title": "Learning and Managing Code with Code Notebooks",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "brittany-joiner",
+          "title": "Making tech careers accessible for everyone",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "shawn-swyx-wang",
+          "title": "Paradigm Lost",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "trivikram-kamat",
+          "title": "Publishing in the JavaScript Ecosystem & Keeping Users Happy",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "joyce-park",
+          "title": "Rethinking Web UX with Webauthn and Project Fugu",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "joyce-lin",
+          "title": "Reverse Engineering a Private API",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "rachel-white",
+          "title": "The 90s Called and They Want Their Websites Back",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "brooklyn-zelenka",
+          "title": "The Dark Forest: Private CRDTs as Global Database",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "aaroh-mankad",
+          "title": "The Next Generation of Tech is on Tiktok",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "isabela-moreira",
+          "title": "The Startup's Guide to Creating a Design System",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "chris-coyier",
+          "title": "The Web is Good Now",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "ian-sutherland",
+          "title": "Zero-dependency CLIs with Node.js",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ibvyselo6pep1uunrs3pluy",
+      "title": "Tags",
+      "icon": "numberOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "cascadia-js-2022",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "animation",
+          "title": "animation",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "api",
+          "title": "api",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "augmented-reality",
+          "title": "augmented reality",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "auth",
+          "title": "auth",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "biometric",
+          "title": "biometric",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "canvas",
+          "title": "canvas",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "cdns",
+          "title": "cdns",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "chrome",
+          "title": "chrome",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "cli",
+          "title": "cli",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "cloud-services",
+          "title": "cloud services",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "code-signing",
+          "title": "code signing",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "cognitive-biases",
+          "title": "cognitive biases",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "commonjs",
+          "title": "commonjs",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "community",
+          "title": "community",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "component-libraries",
+          "title": "component libraries",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "components",
+          "title": "components",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "cryptography",
+          "title": "cryptography",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "deno",
+          "title": "deno",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "design",
+          "title": "design",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "design-patterns",
+          "title": "design patterns",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "design-systems",
+          "title": "design systems",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "distributed-systems",
+          "title": "distributed systems",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "diversity",
+          "title": "diversity",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "ecmascript",
+          "title": "ecmascript",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "engineering-career-growth",
+          "title": "engineering career growth",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "figma",
+          "title": "figma",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "formal-methods",
+          "title": "formal methods",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "functional-programming",
+          "title": "functional programming",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "fwa",
+          "title": "fwa",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "hardware",
+          "title": "hardware",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "hiring",
+          "title": "hiring",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "hosting",
+          "title": "hosting",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "identity",
+          "title": "identity",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "images",
+          "title": "images",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "inclusiveness",
+          "title": "inclusiveness",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "inclusivity",
+          "title": "inclusivity",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "iot",
+          "title": "iot",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "ipfs",
+          "title": "ipfs",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "jamstack",
+          "title": "jamstack",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "javascript",
+          "title": "javascript",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "layout",
+          "title": "layout",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "low-code",
+          "title": "low code",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "memory-leaks",
+          "title": "memory leaks",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "microservices",
+          "title": "microservices",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "mongodb",
+          "title": "mongodb",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "node-js",
+          "title": "node.js",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "npm",
+          "title": "npm",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "ocap",
+          "title": "ocap",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "postgres",
+          "title": "postgres",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "profiling",
+          "title": "profiling",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "pwa",
+          "title": "pwa",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "python",
+          "title": "python",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "react-js",
+          "title": "react.js",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "redis",
+          "title": "redis",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "sdk",
+          "title": "sdk",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "security",
+          "title": "security",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "serverless",
+          "title": "serverless",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "shadow-classes",
+          "title": "shadow classes",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "side-projects",
+          "title": "side projects",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "software-supply-chain",
+          "title": "software supply chain",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "sqlite",
+          "title": "sqlite",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "ssr",
+          "title": "ssr",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "typescript",
+          "title": "typescript",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "typography",
+          "title": "typography",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "v8",
+          "title": "V8",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "virtual-reality",
+          "title": "virtual reality",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "vm-design",
+          "title": "vm design",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "web",
+          "title": "web",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "web-components",
+          "title": "web components",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "web3",
+          "title": "web3",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "webassembly",
+          "title": "webassembly",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "webauthn",
+          "title": "webauthn",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "webrtc",
+          "title": "webrtc",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "webxr",
+          "title": "webxr",
+          "icon": null,
+          "hasTitleNumberOutlined": true,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "ibvyselo6pep1uunrs3pluy": null,
+    "webxr": "ibvyselo6pep1uunrs3pluy",
+    "webrtc": "ibvyselo6pep1uunrs3pluy",
+    "webauthn": "ibvyselo6pep1uunrs3pluy",
+    "webassembly": "ibvyselo6pep1uunrs3pluy",
+    "web3": "ibvyselo6pep1uunrs3pluy",
+    "web": "ibvyselo6pep1uunrs3pluy",
+    "web-components": "ibvyselo6pep1uunrs3pluy",
+    "vm-design": "ibvyselo6pep1uunrs3pluy",
+    "virtual-reality": "ibvyselo6pep1uunrs3pluy",
+    "v8": "ibvyselo6pep1uunrs3pluy",
+    "typography": "ibvyselo6pep1uunrs3pluy",
+    "typescript": "ibvyselo6pep1uunrs3pluy",
+    "ssr": "ibvyselo6pep1uunrs3pluy",
+    "sqlite": "ibvyselo6pep1uunrs3pluy",
+    "software-supply-chain": "ibvyselo6pep1uunrs3pluy",
+    "side-projects": "ibvyselo6pep1uunrs3pluy",
+    "shadow-classes": "ibvyselo6pep1uunrs3pluy",
+    "serverless": "ibvyselo6pep1uunrs3pluy",
+    "security": "ibvyselo6pep1uunrs3pluy",
+    "sdk": "ibvyselo6pep1uunrs3pluy",
+    "redis": "ibvyselo6pep1uunrs3pluy",
+    "react-js": "ibvyselo6pep1uunrs3pluy",
+    "python": "ibvyselo6pep1uunrs3pluy",
+    "pwa": "ibvyselo6pep1uunrs3pluy",
+    "profiling": "ibvyselo6pep1uunrs3pluy",
+    "postgres": "ibvyselo6pep1uunrs3pluy",
+    "ocap": "ibvyselo6pep1uunrs3pluy",
+    "npm": "ibvyselo6pep1uunrs3pluy",
+    "node-js": "ibvyselo6pep1uunrs3pluy",
+    "mongodb": "ibvyselo6pep1uunrs3pluy",
+    "microservices": "ibvyselo6pep1uunrs3pluy",
+    "memory-leaks": "ibvyselo6pep1uunrs3pluy",
+    "low-code": "ibvyselo6pep1uunrs3pluy",
+    "layout": "ibvyselo6pep1uunrs3pluy",
+    "javascript": "ibvyselo6pep1uunrs3pluy",
+    "jamstack": "ibvyselo6pep1uunrs3pluy",
+    "ipfs": "ibvyselo6pep1uunrs3pluy",
+    "iot": "ibvyselo6pep1uunrs3pluy",
+    "inclusivity": "ibvyselo6pep1uunrs3pluy",
+    "inclusiveness": "ibvyselo6pep1uunrs3pluy",
+    "images": "ibvyselo6pep1uunrs3pluy",
+    "identity": "ibvyselo6pep1uunrs3pluy",
+    "hosting": "ibvyselo6pep1uunrs3pluy",
+    "hiring": "ibvyselo6pep1uunrs3pluy",
+    "hardware": "ibvyselo6pep1uunrs3pluy",
+    "fwa": "ibvyselo6pep1uunrs3pluy",
+    "functional-programming": "ibvyselo6pep1uunrs3pluy",
+    "formal-methods": "ibvyselo6pep1uunrs3pluy",
+    "figma": "ibvyselo6pep1uunrs3pluy",
+    "engineering-career-growth": "ibvyselo6pep1uunrs3pluy",
+    "ecmascript": "ibvyselo6pep1uunrs3pluy",
+    "diversity": "ibvyselo6pep1uunrs3pluy",
+    "distributed-systems": "ibvyselo6pep1uunrs3pluy",
+    "design": "ibvyselo6pep1uunrs3pluy",
+    "design-systems": "ibvyselo6pep1uunrs3pluy",
+    "design-patterns": "ibvyselo6pep1uunrs3pluy",
+    "deno": "ibvyselo6pep1uunrs3pluy",
+    "cryptography": "ibvyselo6pep1uunrs3pluy",
+    "components": "ibvyselo6pep1uunrs3pluy",
+    "component-libraries": "ibvyselo6pep1uunrs3pluy",
+    "community": "ibvyselo6pep1uunrs3pluy",
+    "commonjs": "ibvyselo6pep1uunrs3pluy",
+    "cognitive-biases": "ibvyselo6pep1uunrs3pluy",
+    "code-signing": "ibvyselo6pep1uunrs3pluy",
+    "cloud-services": "ibvyselo6pep1uunrs3pluy",
+    "cli": "ibvyselo6pep1uunrs3pluy",
+    "chrome": "ibvyselo6pep1uunrs3pluy",
+    "cdns": "ibvyselo6pep1uunrs3pluy",
+    "canvas": "ibvyselo6pep1uunrs3pluy",
+    "biometric": "ibvyselo6pep1uunrs3pluy",
+    "auth": "ibvyselo6pep1uunrs3pluy",
+    "augmented-reality": "ibvyselo6pep1uunrs3pluy",
+    "api": "ibvyselo6pep1uunrs3pluy",
+    "animation": "ibvyselo6pep1uunrs3pluy",
+    "qwdt0khxbevqlbrp67nay4w": null,
+    "vladimir-de-turckheim": "qwdt0khxbevqlbrp67nay4w",
+    "trivikram-kamat": "qwdt0khxbevqlbrp67nay4w",
+    "tejas-kumar": "qwdt0khxbevqlbrp67nay4w",
+    "shawn-swyx-wang": "qwdt0khxbevqlbrp67nay4w",
+    "saimon-sharif": "qwdt0khxbevqlbrp67nay4w",
+    "rebecca-peltz": "qwdt0khxbevqlbrp67nay4w",
+    "rachel-white": "qwdt0khxbevqlbrp67nay4w",
+    "mikeal-rogers": "qwdt0khxbevqlbrp67nay4w",
+    "joyce-park": "qwdt0khxbevqlbrp67nay4w",
+    "joyce-lin": "qwdt0khxbevqlbrp67nay4w",
+    "isabela-moreira": "qwdt0khxbevqlbrp67nay4w",
+    "ian-sutherland": "qwdt0khxbevqlbrp67nay4w",
+    "eddie-zaneski": "qwdt0khxbevqlbrp67nay4w",
+    "dwane-hemmings": "qwdt0khxbevqlbrp67nay4w",
+    "daphne-liu": "qwdt0khxbevqlbrp67nay4w",
+    "chris-coyier": "qwdt0khxbevqlbrp67nay4w",
+    "brooklyn-zelenka": "qwdt0khxbevqlbrp67nay4w",
+    "brittany-joiner": "qwdt0khxbevqlbrp67nay4w",
+    "brian-leroux": "qwdt0khxbevqlbrp67nay4w",
+    "aaroh-mankad": "qwdt0khxbevqlbrp67nay4w",
+    "7ifn0jqm45dvq2e5wc6xjo2": null,
+    "lqwv7e0y39yfgymvysmgiv5": "7ifn0jqm45dvq2e5wc6xjo2",
+    "x84sn91kbhdc7wwc58m3ho0": "7ifn0jqm45dvq2e5wc6xjo2"
+  }
+}
